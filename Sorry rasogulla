@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Please Forgive Me</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to right, #fddb92, #d1fdff);
+      color: #333;
+      text-align: center;
+      padding: 100px 20px;
+    }
+    h1 {
+      font-size: 2.8rem;
+      color: #ff4d4d;
+    }
+    p {
+      font-size: 1.3rem;
+      margin: 20px auto;
+      max-width: 600px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 30px;
+      background: #ff4d4d;
+      color: white;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 30px;
+      transition: 0.3s;
+    }
+    .btn:hover { background: #ff7373; }
+  </style>
+</head>
+<body>
+  <h1>Will You Forgive Me, Rasogula? 💖</h1>
+  <p>I hope this little gesture made you smile. I'm truly sorry, and I really hope we can move past this.</p>
+  <a href="https://media.giphy.com/media/Q7ozWVYCR0nyW2rvPW/giphy.gif" class="btn" target="_blank">Yes, I forgive you</a>
+</body>
+</html>
